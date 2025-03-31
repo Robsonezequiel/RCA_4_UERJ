@@ -27,9 +27,9 @@ Este projeto é uma análise exploratória de dados de vendas de chocolate, dese
 ---
 
 ## 📊 Sobre o Dataset
-- **Fonte**: [Descreva a origem do dataset. Ex: "Dados sintéticos gerados para fins educacionais"]  
+- **Fonte**: [Kaggle]  
 - **Conteúdo**:  
-  - Período analisado: [Ex: Jan/2020 a Dez/2023]  
+  - Período analisado: [Ex março 2025]  
   - Variáveis: ID do produto, região de venda, quantidade vendida, preço unitário, data da venda.  
 - **Objetivo da Análise**: Identificar padrões sazonais, produtos mais vendidos e variações de preço.
 
